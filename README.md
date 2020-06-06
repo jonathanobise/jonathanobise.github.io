@@ -2,9 +2,9 @@
 
 ```
 # Code and learing lives here.
-def sum(x,y):
+`def sum(x,y):
   z = x + y
-  return z
+  return z`
 ```
 
 You can use the [editor on GitHub](https://github.com/jonathanobise/jonathanobise.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
