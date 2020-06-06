@@ -1,7 +1,10 @@
 ## Welcome to Jonathan Obise's Github
 
 ```
-Code and learing lives here.
+# Code and learing lives here.
+def sum(x,y):
+  z = x + y
+  return z
 ```
 
 You can use the [editor on GitHub](https://github.com/jonathanobise/jonathanobise.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
