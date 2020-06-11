@@ -1,17 +1,8 @@
-## Welcome to Jonathan Obise's Github
+## Welcome to Jonathan Obise's Github Website
 
-```
-# Code and learing lives here.
-`def sum(x,y):
-  z = x + y
-  return z`
-```
+This is a work in progress and should get updated real soon.
 
-You can use the [editor on GitHub](https://github.com/jonathanobise/jonathanobise.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
+### Testing 1, 2, 3
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
@@ -35,9 +26,6 @@ Syntax highlighted code block
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jonathanobise/jonathanobise.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
 
