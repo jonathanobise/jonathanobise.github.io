@@ -4,7 +4,7 @@ This is a work in progress and should get updated real soon.
 
 ### Testing 1, 2, 3
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Using markdown to put this all together.
 
 ```markdown
 Syntax highlighted code block
