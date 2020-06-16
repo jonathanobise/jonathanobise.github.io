@@ -1,6 +1,6 @@
-## Welcome to Jonathan Obise's Github Website
+## Welcome to My Github Website!
 
-This is a work in progress and should get updated real soon.
+This website is a work in progress. I hope to update it with all the relevant information as soon as possible.
 
 ### Testing 1, 2, 3
 
