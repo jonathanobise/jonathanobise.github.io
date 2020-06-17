@@ -2,7 +2,7 @@
 
 This website is a work in progress. I hope to update it with all the relevant information as soon as possible.
 
-### Testing 1, 2, 3
+### Testing 1, 2, 3...
 
 Using markdown to put this all together.
 
